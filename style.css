@@ -171,6 +171,8 @@ body {
 
 label {
     left: 0px;
+    text-align: left;
+}
 
 .contact__form input, 
 .contact__form textarea {
