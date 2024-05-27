@@ -166,6 +166,7 @@ body {
     font-size: 18px;
     color: #333;
     margin: 10px 0 5px 0;
+    text-aling: left;
 }
 
 .contact__form input, 
