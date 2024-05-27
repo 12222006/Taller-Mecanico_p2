@@ -169,6 +169,9 @@ body {
     text-aling: left;
 }
 
+label {
+    left: 0px;
+
 .contact__form input, 
 .contact__form textarea {
     width: 80%;
