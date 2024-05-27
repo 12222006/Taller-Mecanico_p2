@@ -38,3 +38,16 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
+    document.querySelector('.contact__form').addEventListener('submit', function(e) {
+        e.preventDefault();
+
+        
+
+        // Mostrar el alert
+        alert('Mensaje enviado correctamente');
+
+        // Redireccionar a la página de inicio
+        window.location.href = '#inicio';
+    });
+});
